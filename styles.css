@@ -275,124 +275,124 @@
 }
 /*end row5*/
 
-#41 {
+#board #row6 .dark .space #41 {
   grid-row-start: 6;
   grid-column-start: 1;
 }
 
-#42 {
+#board #row6 .light .space #42 {
   grid-row-start: 6;
   grid-column-start: 2;
 }
 
-#43 {
+#board #row6 .dark .space #43 {
   grid-row-start: 6;
   grid-column-start: 3;
 }
 
-#44 {
+#board #row6 .light .space #44 {
   grid-row-start: 6;
   grid-column-start: 4;
 }
 
-#45 {
+#board #row6 .dark .space #45 {
   grid-row-start: 6;
   grid-column-start: 5;
 }
 
-#46 {
+#board #row6 .light .space #46 {
   grid-row-start: 6;
   grid-column-start: 6;
 }
 
-#47 {
+#board #row6 .dark .space #47 {
   grid-row-start: 6;
   grid-column-start: 7;
 }
 
-#48 {
+#board #row6 .light .space #48 {
   grid-row-start: 6;
   grid-column-start: 8;
 }
 /*end row6*/
 
-#49 {
+#board #row7 .light .space #49 {
   grid-row-start: 7;
   grid-column-start: 1;
 }
 
-#50 {
+#board #row7 .dark .space #50 {
   grid-row-start: 7;
   grid-column-start: 2;
 }
 
-#51 {
+#board #row7 .light .space #51 {
   grid-row-start: 7;
   grid-column-start: 3;
 }
 
-#52 {
+#board #row7 .dark .space #52 {
   grid-row: 7;
   grid-column-start: 4;
 }
 
-#53 {
+#board #row7 .light .space #53 {
   grid-row-start: 7;
   grid-column-start: 5;
 }
 
-#54 {
+#board #row7 .dark .space #54 {
   grid-row-start: 7;
   grid-column-start: 6;
 }
 
-#55 {
+#board #row7 .light .space #55 {
   grid-row-start: 7;
   grid-column-start: 7;
 }
 
-#56 {
+#board #row7 .dark .space #56 {
   grid-row-start: 7;
   grid-column-start: 8;
 }
 /*end row7*/
 
-#57 {
+#board #row8 .dark .space #57 {
   grid-row-start: 8;
   grid-column-start: 1;
 }
 
-#58 {
+#board #row8 .light .space #58 {
   grid-row-start: 8;
   grid-column-start: 2;
 }
 
-#59 {
+#board #row8 .dark .space #59 {
   grid-row-start: 8;
   grid-column-start: 3;
 }
 
-#60 {
+#board #row8 .light .space #60 {
   grid-row-start: 8;
   grid-column-start: 4;
 }
 
-#61 {
+#board #row8 .dark .space #61 {
   grid-row-start: 8;
   grid-column-start: 5;
 }
 
-#62 {
+#board #row8 .light .space #62 {
   grid-row-start: 8;
   grid-column-start: 6;
 }
 
-#63 {
+#board #row8 .dark .space #63 {
   grid-row-start: 8;
   grid-column-start: 7;
 }
 
-#64 {
+#board #row8 .light .space #64 {
   grid-row-start: 8;
   grid-column-start: 8;
 }
