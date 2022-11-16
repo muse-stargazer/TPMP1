@@ -20,13 +20,23 @@ body {
   background-color: grey;
 }
 
+.red {
+  background-image: url(images/red-checker-piece.png);
+  background-size: cover;
+}
+
+.black {
+  background-image: url(images/black-checker-piece.png);
+  background-size: cover;
+}
+
 #attribution {
   position: fixed;
   bottom: 0;
-  height: 2vh;
+  height: 2.5vh;
   width: 100vw;
-  align-self: bottom;
-  background-color:
+  background-color: rgba(128, 64, 0, .8);
+  color: white;
 }
 
 
